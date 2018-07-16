@@ -1,0 +1,27 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('https://ih0.redbubble.net/image.257807838.4060/flat,550x550,075,f.u1.jpg');
+}
+img{
+  height: 300px;
+  width: 400px;
+}
+.jumbotron{
+  background: red;
+}
+.signIn{
+  background: white;
+  border: 2px dashed black;
+}
+.page-header{
+  background: gray;
+}
+.col-sm-6{
+  background: white;
+  width: 80%;
+  margin-left: 10%;
+}
+.col-sm-6{
+  text-align: center;
+}
